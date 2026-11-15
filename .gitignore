@@ -1,9 +1,9 @@
-# File temporanei di MATLAB
+# MATLAB temporary files
 *.asv
 *.fig
 *.mat
 .DS_Store
 
-# File binari grezzi (pesanti)
+# Raw binary data files (heavy)
 *.DAT
 *.dat
