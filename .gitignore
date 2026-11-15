@@ -1,0 +1,9 @@
+# File temporanei di MATLAB
+*.asv
+*.fig
+*.mat
+.DS_Store
+
+# File binari grezzi (pesanti)
+*.DAT
+*.dat
